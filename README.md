@@ -2,7 +2,7 @@
 
 <h2 align="center">About the Author</h2>
 
-<p align="center">Hi, I'm Thomas Mathes, a seasoned hospitality professional and tech enthusiast. I specialize in hospitality management, business development, and innovative tech solutions. Connect with me!</p>
+<p align="center">Connect with me!</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/thomasmathes1" target="_blank">
