@@ -1,6 +1,10 @@
 Build Status
-[![Build Status](https://img.shields.io/travis/username/repo.svg)](https://travis-ci.org/username/repo)
 
+---
+
+[![Build Status](https://img.shields.io/travis/username/repo.svg)](https://travis-ci.org/TMHSDigital/Education)
+
+---
 ---
 
 Test Coverage
